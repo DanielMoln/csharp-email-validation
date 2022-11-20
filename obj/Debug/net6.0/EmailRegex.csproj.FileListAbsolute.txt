@@ -1,0 +1,15 @@
+D:\Iskola\VargaGábor\EmailRegex\bin\Debug\net6.0\EmailRegex.exe
+D:\Iskola\VargaGábor\EmailRegex\bin\Debug\net6.0\EmailRegex.deps.json
+D:\Iskola\VargaGábor\EmailRegex\bin\Debug\net6.0\EmailRegex.runtimeconfig.json
+D:\Iskola\VargaGábor\EmailRegex\bin\Debug\net6.0\EmailRegex.dll
+D:\Iskola\VargaGábor\EmailRegex\bin\Debug\net6.0\EmailRegex.pdb
+D:\Iskola\VargaGábor\EmailRegex\obj\Debug\net6.0\EmailRegex.csproj.AssemblyReference.cache
+D:\Iskola\VargaGábor\EmailRegex\obj\Debug\net6.0\EmailRegex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iskola\VargaGábor\EmailRegex\obj\Debug\net6.0\EmailRegex.AssemblyInfoInputs.cache
+D:\Iskola\VargaGábor\EmailRegex\obj\Debug\net6.0\EmailRegex.AssemblyInfo.cs
+D:\Iskola\VargaGábor\EmailRegex\obj\Debug\net6.0\EmailRegex.csproj.CoreCompileInputs.cache
+D:\Iskola\VargaGábor\EmailRegex\obj\Debug\net6.0\EmailRegex.dll
+D:\Iskola\VargaGábor\EmailRegex\obj\Debug\net6.0\refint\EmailRegex.dll
+D:\Iskola\VargaGábor\EmailRegex\obj\Debug\net6.0\EmailRegex.pdb
+D:\Iskola\VargaGábor\EmailRegex\obj\Debug\net6.0\EmailRegex.genruntimeconfig.cache
+D:\Iskola\VargaGábor\EmailRegex\obj\Debug\net6.0\ref\EmailRegex.dll

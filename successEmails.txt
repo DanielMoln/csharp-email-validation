@@ -1,0 +1,14 @@
+email@example.com
+firstname.lastname@example.com
+firstname+lastname@example.com
+"email"@example.com
+1234567890@example.com
+_______@example.com
+firstname-lastname@example.com
+.email@example.com
+email.@example.com
+email..email@example.com
+あいうえお@example.com
+Abc..123@example.com
+”(),:;<>[\]@example.com
+just”not”right@example.com

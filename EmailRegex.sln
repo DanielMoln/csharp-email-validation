@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailRegex", "EmailRegex.csproj", "{C416E60F-2A86-4525-A7C3-4F05D07BBFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C416E60F-2A86-4525-A7C3-4F05D07BBFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C416E60F-2A86-4525-A7C3-4F05D07BBFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C416E60F-2A86-4525-A7C3-4F05D07BBFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C416E60F-2A86-4525-A7C3-4F05D07BBFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62BD21EC-601A-4DEA-A648-81EE53FE7E78}
+	EndGlobalSection
+EndGlobal

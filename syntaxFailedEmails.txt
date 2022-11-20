@@ -1,0 +1,14 @@
+much.”more\ unusual”@example.com
+very.unusual.”@”.unusual.com@example.com
+very.”(),:;<>[]”.VERY.”very@\\ "very”.unusual@strange.example.com
+plainaddress
+#@%^%#$@#$@#.com
+@example.com
+Joe Smith <email@example.com>
+email.example.com
+email@example@example.com
+email@example.com (Joe Smith)
+email@example
+email@-example.com
+email@example..com
+this\ is"really"not\allowed@example.com

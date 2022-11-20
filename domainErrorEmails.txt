@@ -1,0 +1,9 @@
+email@subdomain.example.com
+email@123.123.123.123
+email@[123.123.123.123]
+email@example-one.com
+email@example.name
+email@example.museum
+email@example.co.jp
+email@example.web
+email@111.222.333.44444
